@@ -6,3 +6,5 @@
 #Include AxelBeerVsJAG.h
 #Include AxelBeerVsHarrisScarfe.h
 #Include AxelBeerVsEdHarry.h
+
+#Include AxelBeerVsPlatinum.h
