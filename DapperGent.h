@@ -8,3 +8,5 @@
 #Include AxelBeerVsEdHarry.h
 
 #Include AxelBeerVsPlatinum.h
+
+#Inclue AxelBeerVsNorsca.h
